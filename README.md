@@ -26,7 +26,7 @@
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: _shreyansh063@gmail.com_
+- 📧 Email: _kshreyansh063@gmail.com_
 - 🌐 Portfolio: _Coming Soon_
 
 ---
