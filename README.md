@@ -89,8 +89,66 @@ A responsive portfolio website showcasing projects, skills, and frontend develop
 
 # 📸 Project Preview
 
+# 🚀 Featured Projects
+
+---
+
+## 🚌 BusGo UI
+
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Add+Your+Project+Screenshot+Here" width="700" alt="Project Preview"/>
+  <a href="https://bus-go-15336.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Shreyansh063/busgo-15336/main/Screenshot%20(109).png" width="800" alt="BusGo UI Preview"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://bus-go-15336.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Shreyansh063/busgo-15336" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✅ TaskFlow Pro
+
+<p align="center">
+  <a href="https://taskflow-15336.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Shreyansh063/taskflow-pro/main/Screenshot%20(100).png" width="800" alt="TaskFlow Pro Preview"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://taskflow-15336.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Shreyansh063/taskflow-pro" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Personal Portfolio
+
+<p align="center">
+  <a href="https://portfolio-15336.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Shreyansh063/portfolio-15336/main/Screenshot%20(105).png" width="800" alt="Portfolio Website Preview"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-15336.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Shreyansh063/portfolio-15336" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
