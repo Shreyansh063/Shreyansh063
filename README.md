@@ -1,51 +1,123 @@
-# Hey there, I'm Shreyansh 👋
+# Hi, I'm Shreyansh 👋
 
-🎓 BTech CSE Student (4th Semester) | 💻 Self-Taught Developer  
-📍 Learning Web Development | ✨ Building real projects silently  
-🧠 Focused on skills, growth & proving myself with action.
+### Frontend Developer • Computer Science Student • UI Enthusiast
 
----
+I enjoy building clean, responsive, and modern web interfaces using HTML, CSS, Bootstrap, and JavaScript.
 
-## 🚀 Tech Stack
-- 💡 Languages: C, HTML, CSS, JavaScript (Basic)
-- 🎨 Frameworks: Bootstrap
-- 🧩 Exploring: Django, Git, GitHub
-- 🛠️ Tools: VS Code, Git, Chrome DevTools
+Currently focused on:
 
----
-
-## 📦 Projects
-🔹 [Bus Ticket UI](https://shreyansh10.gumroad.com/l/busticket-ui) – Simple frontend template built using HTML, CSS, and Bootstrap  
-🔹 [GitHub Repo](https://github.com/Shreyansh063/bus-ticket-ui)
+* Improving frontend development skills
+* Building polished portfolio projects
+* Creating professional UI designs
+* Learning through hands-on projects
 
 ---
 
-## 📈 GitHub Stats (coming soon!)
-<!-- You can add GitHub Readme Stats once you grow more repos -->
+# 🚀 Featured Projects
+
+## 🚌 BusGo UI
+
+A modern and responsive bus ticket booking interface designed with a clean user experience and beginner-friendly structure.
+
+### Features
+
+* Responsive layout
+* Modern UI design
+* Popular routes section
+* Trending offers section
+* FAQ section
+* Mobile-friendly interface
+
+🔗 Live Demo: https://busgo-15336.netlify.app/
+
+🔗 Repository: https://github.com/Shreyansh063/busgo-15336
 
 ---
 
-## 📫 Let's Connect
-- 📧 Email: _kshreyansh063@gmail.com_
-- 🌐 Portfolio: _Coming Soon_
+## ✅ TaskFlow Pro
+
+A premium-style task management web app with a clean dashboard-inspired interface.
+
+### Features
+
+* Task management UI
+* Responsive design
+* Modern card layouts
+* Interactive elements
+* Beginner-friendly structure
+
+🔗 Live Demo: https://taskflow-15336.netlify.app/
+
+🔗 Repository: https://github.com/Shreyansh063/taskflow-pro
 
 ---
 
-> 💭 *"I'm not here to talk. I'm here to transform."*
+## 🌐 Personal Portfolio Website
 
+A responsive portfolio website showcasing projects, skills, and frontend development journey.
 
+### Features
 
-<!--
-**Shreyansh063/Shreyansh063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Responsive layout
+* Smooth navigation
+* Project showcase section
+* Contact section
+* Modern design structure
 
-Here are some ideas to get you started:
+🔗 Live Demo: https://portfolio-15336.netlify.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Repository: https://github.com/Shreyansh063/portfolio-15336
+
+---
+
+# 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,git,github,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyansh063&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyansh063&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+# 📸 Project Preview
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Add+Your+Project+Screenshot+Here" width="700" alt="Project Preview"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced JavaScript
+* Better UI/UX design practices
+* Responsive web development
+* Frontend project structuring
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Shreyansh063">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy improving project presentation, UI polish, and creating clean README designs for my projects.
