@@ -111,7 +111,7 @@ A responsive portfolio website showcasing projects, skills, and frontend develop
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/shreyansh-kumar-925b1040b/" target="_blank">
+  <a href="https://www.linkedin.com/in/shreyansh-kumar-925b1040a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
